@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lesego-O
-- 🌱 I have an interestin Data & AI
+- 🌱 I have an interest in Data & AI
 - 📫 Linkedin @lesego oliphant
 
 <!---
