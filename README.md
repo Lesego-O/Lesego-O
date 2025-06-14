@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lesego-O
-- 🌱 I have an interest in Data & AI
-- 📫 Linkedin @lesego oliphant
+- 🌱 I hold a huge interest in how Businesses leverage Data & AI
+- 📫 Linkedin @Lesego Rachel
 
 <!---
 Lesego-O/Lesego-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
